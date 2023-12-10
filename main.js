@@ -1,1 +1,1 @@
-console.log('Hola soy el main');
+console.log('this is the main');
